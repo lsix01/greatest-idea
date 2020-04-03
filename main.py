@@ -1,0 +1,1 @@
+# Main file for greatest-idea project
